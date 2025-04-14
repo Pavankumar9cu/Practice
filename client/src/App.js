@@ -1,3 +1,4 @@
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -5,9 +6,8 @@ function App() {
     <div className="App">
      <h1>asdfghjk</h1>
      <h1>Brn Infotech</h1>
-     <h1>Parcvatha Chari
-
-     </h1>
+     <h1>Parvatha Chari</h1>
+     <h1>Trica Jasper</h1>
     </div>
   );
 }
